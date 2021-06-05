@@ -7,7 +7,7 @@ Python Tutorial
 
 ## Objectives
 
-By the end of this, students should be able to:
+By the end of this, a programmer should be able to:
 
 -   Use the Python REPL
 -   Compare and contrast basic language features and types from Python with basic language features and types from Javascript.
